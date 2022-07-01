@@ -5,5 +5,6 @@
 - [Telegram English](https://t.me/posthumanchat)
 - [Telegram Russian](https://t.me/Crypto_Base_Chat)
 - [Telegram Spanish](https://t.me/phmn_esp)
-
+- [Medium 1](https://antropocosmist.medium.com/)
+- [Medium 2](https://medium.com/@Medniyy)
 mail: validator@posthuman.digital
