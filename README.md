@@ -7,5 +7,6 @@
 - [Telegram Spanish](https://t.me/phmn_esp)
 - [Medium 1](https://antropocosmist.medium.com/)
 - [Medium 2](https://medium.com/@Medniyy)
+- [Discord](https://discord.gg/TyrYS5bHYz)
 
 mail: validator@posthuman.digital
