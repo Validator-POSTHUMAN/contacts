@@ -11,7 +11,7 @@
 - [Discord](https://discord.gg/TyrYS5bHYz)
 - [GitHub](https://github.com/Validator-POSTHUMAN/)
 
+mail: validator@posthuman.digital
+
 - [Telegram account of validator](https://t.me/POSTHUMAN_validator)
 - [Telegram account of founder](https://t.me/Antropocosmist)
-
-mail: validator@posthuman.digital
