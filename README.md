@@ -13,5 +13,5 @@
 
 mail: validator@posthuman.digital
 
-- [Telegram account of validator](https://t.me/POSTHUMAN_validator)
-- [Telegram account of founder](https://t.me/Antropocosmist)
+- [Shared Telegram Account](https://t.me/POSTHUMAN_validator)
+- Shared Discord Account: posthuman_validator
