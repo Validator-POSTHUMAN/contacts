@@ -14,7 +14,7 @@
 - mail: validator@posthuman.digital
 - mail for google forms: posthuman.validator@gmail.com
 
-- [Shared Telegram Account](https://t.me/POSTHUMAN_team_account)
+- [Shared Telegram Account](https://t.me/POSTHUMAN_validator)
 - Shared Discord Account: posthuman_validator
 
 # [POSTHUMAN CORE-TEAM]
