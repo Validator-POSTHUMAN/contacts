@@ -16,6 +16,7 @@
 
 - [Shared Telegram Account](https://t.me/POSTHUMAN_validator)
 - Shared Discord Account: posthuman_validator
+- Discord of Vladimir Understanding: antropocosmist
 
 # [POSTHUMAN CORE-TEAM]
 
