@@ -18,4 +18,4 @@
 - [Shared Telegram Account](https://t.me/POSTHUMAN_validator)
 - Shared Discord Account: posthuman_validator
 
-# Contacts of [POSTHUMAN CORE-TEAM](https://github.com/Validator-POSTHUMAN/core-team)
+## Contacts of POSTHUMAN core-team members (GitHub, Telegram, Discord), you can find [here](https://github.com/Validator-POSTHUMAN/core-team)
