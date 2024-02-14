@@ -1,6 +1,7 @@
 # List of POSTHUMAN contacts
 
 - [Web-page](https://posthuman.digital/)
+- [POSTHUMAN DAS](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
 - [Telegram chat English](https://t.me/posthumanchat)
 - [Telegram chat Russian](https://t.me/Crypto_Base_Chat)
@@ -16,19 +17,5 @@
 
 - [Shared Telegram Account](https://t.me/POSTHUMAN_validator)
 - Shared Discord Account: posthuman_validator
-- Discord of Vladimir Understanding: antropocosmist
 
-# [POSTHUMAN CORE-TEAM]
-
-- [Vladimir Understanding](https://github.com/Antropocosmist) - FULL-TIME ENTHUSIAST
-- [Albert Andrejev](https://github.com/albertandrejev) - FULL-STACK DEVELOPER
-- [Vova Synthetic](https://www.instagram.com/synth_etic_/) - CONTENT CREATOR
-- [Valentin Medniy](https://github.com/Medniyy) - COMMUNITY DEVELOPER
-- [Mikhail Krogla](https://github.com/krogla) - FULL-STACK DEVELOPER
-- [Evgeny Yakovishin](https://github.com/evgen3000) - BACK-END DEVELOPER
-- [Danil Milyutin](https://github.com/avallonn) - DESIGN & COMMUNITY
-- [Nikita Web34ever](https://github.com/web3validator) - TEST-NET DEVELOPMENT
-- [Ekaterina Volkova](https://github.com/loomay) - COMMUNITY DEVELOPER
-- [Sergey Lazuta](https://github.com/orion-s-s) - COMMUNITY DEVELOPER
-- [Vadim CyberG](https://github.com/Vgk88) - TEST-NET DEVELOPMENT
-- [Sergey Stribul](https://github.com/stribulsergey) - FULL-STACK DEVELOPER
+# Contacts of [POSTHUMAN CORE-TEAM](https://github.com/Validator-POSTHUMAN/core-team)
