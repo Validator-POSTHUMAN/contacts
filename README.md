@@ -1,5 +1,8 @@
 # List of POSTHUMAN contacts
 
+- [link3.co](https://link3.to/posthuman_phmn)
+- [linktr.ee](https://linktr.ee/posthuman)
+
 - [Web-page](https://posthuman.digital/)
 - [POSTHUMAN DAS](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
