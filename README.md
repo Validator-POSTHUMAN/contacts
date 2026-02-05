@@ -7,11 +7,10 @@
 - [POSTHUMAN DAS](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
 - [Telegram chat English](https://t.me/posthumanchat)
-- [Telegram chat Russian](https://t.me/Crypto_Base_Chat)
+- [Telegram chat Russian](https://t.me/posthumanchat_ru)
 - [Telegram chat Spanish](https://t.me/phmn_esp)
 - [Telegram chat Chinese](https://t.me/PHMN_CN)
 - [Medium 1](https://antropocosmist.medium.com/)
-- [Medium 2](https://medium.com/@Medniyy)
 - [Discord](https://discord.gg/TyrYS5bHYz)
 - [GitHub](https://github.com/Validator-POSTHUMAN/)
 
