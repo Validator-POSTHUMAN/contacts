@@ -4,7 +4,7 @@
 - [linktr.ee](https://linktr.ee/posthuman)
 
 - [Web-page](https://posthuman.digital/)
-- [POSTHUMAN DAS](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
+- [POSTHUMAN DAS](https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599)
 - [Twitter](https://twitter.com/POSTHUMAN_DVS)
 - [Telegram chat English](https://t.me/posthumanchat)
 - [Telegram chat Russian](https://t.me/posthumanchat_ru)
